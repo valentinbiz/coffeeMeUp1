@@ -2,6 +2,7 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({ shops }) => {
+
     return (
         <div>
             {
@@ -18,8 +19,8 @@ const CardList = ({ shops }) => {
                 })
             }
         </div>
-
     );
 }
+
 
 export default CardList;

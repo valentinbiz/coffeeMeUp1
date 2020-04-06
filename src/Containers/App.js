@@ -2,6 +2,7 @@ import React from 'react';
 import CardList from '../Components/CardList';
 import { shops } from '../shops';
 import SearchBox from '../Components/SearchBox';
+import ErrorBoundry from '../Components/ErrorBoundry';
 import './App.css';
 
 
@@ -27,10 +28,11 @@ class App extends React.Component {
             <div className='tc'>
                 <h1 className='f-subheadline lh-title'> Coffee Me Up </h1>
                 <SearchBox searchChange={this.onSearch} />
-                <CardList shops={filteredShops} />
+                <ErrorBoundry>
+                    <CardList shops={filteredShops} />
+                </ErrorBoundry>
 
-            </div >
-
+            </div>
         );
     }
 }
