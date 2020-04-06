@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/coffeeMeUp1/static/css/main.8f179541.chunk.css",
+    "main.js": "/coffeeMeUp1/static/js/main.41fbde38.chunk.js",
+    "main.js.map": "/coffeeMeUp1/static/js/main.41fbde38.chunk.js.map",
+    "runtime-main.js": "/coffeeMeUp1/static/js/runtime-main.5c793d65.js",
+    "runtime-main.js.map": "/coffeeMeUp1/static/js/runtime-main.5c793d65.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/coffeeMeUp1/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.8c26e55d.chunk.js": "/coffeeMeUp1/static/js/2.8c26e55d.chunk.js",
+    "static/js/2.8c26e55d.chunk.js.map": "/coffeeMeUp1/static/js/2.8c26e55d.chunk.js.map",
+    "index.html": "/coffeeMeUp1/index.html",
+    "precache-manifest.3df719149959c361d0995baab2e142ca.js": "/coffeeMeUp1/precache-manifest.3df719149959c361d0995baab2e142ca.js",
+    "service-worker.js": "/coffeeMeUp1/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/coffeeMeUp1/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.8f179541.chunk.css.map": "/coffeeMeUp1/static/css/main.8f179541.chunk.css.map",
+    "static/js/2.8c26e55d.chunk.js.LICENSE.txt": "/coffeeMeUp1/static/js/2.8c26e55d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/coffeeMeUp1/static/media/SimpleHandwriting-Regular.ff59d261.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c793d65.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.8c26e55d.chunk.js",
+    "static/css/main.8f179541.chunk.css",
+    "static/js/main.41fbde38.chunk.js"
+  ]
+}
