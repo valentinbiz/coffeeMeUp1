@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Simple Handwriting Regular';
+font-style: normal;
+font-weight: normal;
+font-size: 4em;
+src: local('Simple Handwriting Regular'), url('SimpleHandwriting-Regular.woff') format('woff');
+}
+
+h1 { 
+    font-family: 'Simple Handwriting Regular';
+    font-size: 4em;
+}
